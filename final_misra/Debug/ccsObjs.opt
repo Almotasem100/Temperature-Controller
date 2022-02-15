@@ -1,0 +1,1 @@
+"./ADC.obj" "./DIO.obj" "./KEYPAD.obj" "./LCD.obj" "./PWM.obj" "./SPI.obj" "./TC72.obj" "./TIMER.obj" "./display_manager.obj" "./heater_control.obj" "./main.obj" -llibc.a 
